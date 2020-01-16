@@ -1,0 +1,27 @@
+.navbar{
+	display: flex;
+	justify-content: space-around;
+	background-color: tomato;
+}
+
+.content{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+h1{
+	width: 100%;
+	text-align: center;
+}
+
+.news{
+	width: 33%;
+}
+
+.content p{
+	width: 100%
+}
+
+div{
+	background-color: orange;
+}
